@@ -5,7 +5,7 @@ They span topics from control systems and deep learning to structural analysis a
 
 ---
 
-## 📂 Quadcopter Trajectory Control
+## 📂 Quadcopter Project
 
 **Purpose:**  
 Design and implement control algorithms for stabilizing a quadcopter’s angular orientation.
@@ -18,7 +18,7 @@ Design and implement control algorithms for stabilizing a quadcopter’s angular
 
 ---
 
-## 📂 Plant Diagnosis with CNNs
+## 📂 CNN-PlantDiagnosis
 
 **Purpose:**  
 Classify plant health (healthy/unhealthy) from RGB images using deep learning.
@@ -32,7 +32,7 @@ Classify plant health (healthy/unhealthy) from RGB images using deep learning.
 
 ---
 
-## 📂 Time Series Forecasting with AI
+## 📂 Time Series Forecasting NN
 
 **Purpose:**  
 Predict future time series values using a ResNet-inspired, attention-based deep learning model.
@@ -48,7 +48,7 @@ Predict future time series values using a ResNet-inspired, attention-based deep 
 
 ---
 
-## 📂 FEM Analysis – Railway Arc Bridge
+## 📂 FEM Project
 
 **Purpose:**  
 Perform dynamic finite element analysis of a railway bridge using the requirements from *Dynamics of Mechanical Systems*.
@@ -69,7 +69,7 @@ Perform dynamic finite element analysis of a railway bridge using the requiremen
 
 ---
 
-## 📂 CAM-Based Milling Workflow
+## 📂 CAM Project
 
 **Purpose:**  
 Design a manufacturing workflow from CAD modeling to process planning.
@@ -81,7 +81,7 @@ Design a manufacturing workflow from CAD modeling to process planning.
 
 ---
 
-## 📂 IoT Sensor Network
+## 📂 Lightweight publish-subscribe application protocol (IoT Project)
 
 **Purpose:**  
 Build a wireless telemetry network using **MQTT** and **TinyOS**.
@@ -93,7 +93,7 @@ Build a wireless telemetry network using **MQTT** and **TinyOS**.
 
 ---
 
-## 📂 Room Temperature Control with LMIs
+## 📂 Temperature control in a four-rooms building
 
 **Purpose:**  
 Regulate temperature in a multi-room thermal model using **Linear Matrix Inequalities**.
@@ -103,18 +103,3 @@ Regulate temperature in a multi-room thermal model using **Linear Matrix Inequal
 - Designed and simulated LMI-based controllers.
 - Integrated MATLAB LMI toolbox into control loop.
 - Delivered technical presentation explaining controller design.
-
----
-
-## 🗂 Repository Structure
-
-PoliMi-Projects-Andrea-Ricciardi/
-│
-├── Quadcopter_Trajectory_Control/
-├── Plant_Diagnosis_CNN/
-├── Time_Series_Forecasting_AI/
-├── FEM_Railway_Arc_Bridge/
-│ └── dmb_fem2/programma/
-├── CAM_Based_Milling_Workflow/
-├── IoT_Sensor_Network/
-└── Room_Temperature_Control_LMI/
